@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\yeni denemeler\FORM UYGULAMALARI\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\hp\Desktop\yeni denemeler\FORM UYGULAMALARI\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\hp\Desktop\yeni denemeler\FORM UYGULAMALARI\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\hp\Desktop\yeni denemeler\FORM UYGULAMALARI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\yeni denemeler\FORM UYGULAMALARI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\yeni denemeler\FORM UYGULAMALARI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\hp\Desktop\yeni denemeler\FORM UYGULAMALARI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Kayıt.resources
+C:\Users\hp\Desktop\yeni denemeler\FORM UYGULAMALARI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\hp\Desktop\yeni denemeler\FORM UYGULAMALARI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\yeni denemeler\FORM UYGULAMALARI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\yeni denemeler\FORM UYGULAMALARI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\hp\Desktop\yeni denemeler\FORM UYGULAMALARI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\hp\Desktop\yeni denemeler\FORM UYGULAMALARI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KitapEkle.resources
+C:\Users\hp\Desktop\yeni denemeler\FORM UYGULAMALARI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KitapAra.resources
